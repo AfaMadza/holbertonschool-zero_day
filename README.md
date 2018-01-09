@@ -1,0 +1,1 @@
+This project is supposed to familiarize students with vi (visual editor), emacs, and git.
